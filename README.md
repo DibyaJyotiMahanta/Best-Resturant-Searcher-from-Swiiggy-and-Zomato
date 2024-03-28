@@ -36,7 +36,7 @@ Activate the environment using source activate restaurant-searcher (Linux/macOS)
 
 Selenium WebDriver: You might need to download a specific WebDriver for your browser to use Selenium effectively. Refer to the Selenium documentation for instructions: https://www.selenium.dev/documentation/
 
-Contributing
+## Contributing
 
 We welcome contributions to this project! Feel free to fork the repository, make changes, and submit pull requests.
 
