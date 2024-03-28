@@ -43,3 +43,8 @@ We welcome contributions to this project! Feel free to fork the repository, make
 ## Disclaimer
 
 The restaurant data scraped from Zomato and Swiggy in this project remains the property of the respective owners (Zomato and Swiggy). This project extracts data solely for educational and research purposes, adhering to ethical scraping practices. We respect the intellectual property rights of both Zomato and Swiggy.
+
+## Future Plans :
+1. Make a django framework.
+2. tie it up to a react frontend for frequent use
+3. make it more personalized it like checking the restaurant history resturants according to which food is being searched.
